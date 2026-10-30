@@ -1,0 +1,10 @@
+# SolidWorks temporary and backup files
+~$*
+*.sldprt.bak
+*.sldasm.bak
+
+# OS/editor temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp

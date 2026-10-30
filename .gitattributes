@@ -1,2 +1,12 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.pdf binary
+*.xlsx binary
+*.zip binary
+*.epro2 binary
+*.eprj2 binary
+*.SLDPRT binary
+*.SLDASM binary
+*.3MF binary
+*.3mf binary
+*.jpg binary
